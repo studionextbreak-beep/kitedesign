@@ -1,0 +1,12 @@
+node_modules
+dist
+.smoke
+*.local
+*.tsbuildinfo
+.DS_Store
+kite-dev.log
+kite-dev.pid
+worker-dist
+.wrangler
+wrangler-dev.log
+wrangler-dev.pid
