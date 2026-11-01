@@ -7,6 +7,7 @@ dist
 kite-dev.log
 kite-dev.pid
 worker-dist
+*.bundle
 .wrangler
 wrangler-dev.log
 wrangler-dev.pid
