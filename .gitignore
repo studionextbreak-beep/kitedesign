@@ -3,6 +3,9 @@ dist
 .smoke
 *.local
 *.tsbuildinfo
+.env
+.env.local
+.env.*.local
 .DS_Store
 kite-dev.log
 kite-dev.pid
